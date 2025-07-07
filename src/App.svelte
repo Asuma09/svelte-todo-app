@@ -30,7 +30,7 @@
 					class="btn btn-primary px-5"
 					disabled={disabledCreateButton}
 					on:click={handleClickCreateButton}>
-					作成
+					create
 					</button>
 				</div>
 			</form>
